@@ -2,7 +2,7 @@ import pygame
 
 # Setup Start
 pygame.init()
-window = pygame.display.set_mode(size=(1024, 720))
+window = pygame.display.set_mode(size=(1600, 900))
 # Setup End
 while True:
     # Check for all events
